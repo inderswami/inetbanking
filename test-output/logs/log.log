@@ -1,0 +1,76 @@
+INFO    2022-09-24 20:22:42,325 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-09-24 20:22:42,379 [main] com.inetbanking.testCases.BaseClass  - initializing driver
+INFO    2022-09-24 20:22:52,971 [main] com.inetbanking.testCases.TC_LoginTest_001  - URL is opened
+INFO    2022-09-24 20:22:53,105 [main] com.inetbanking.testCases.TC_LoginTest_001  - Entered username
+INFO    2022-09-24 20:22:53,137 [main] com.inetbanking.testCases.TC_LoginTest_001  - Entered password
+INFO    2022-09-24 20:22:54,255 [main] com.inetbanking.testCases.BaseClass  - quiting driver
+INFO    2022-09-24 22:18:32,337 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-09-24 22:18:59,175 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-09-24 22:20:57,268 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-09-24 22:33:32,104 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-09-24 22:34:00,106 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-09-27 21:25:44,224 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-09-28 11:45:12,623 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-09-28 11:45:12,935 [main] com.inetbanking.testCases.BaseClass  - initializing driver
+INFO    2022-09-28 11:45:20,660 [main] com.inetbanking.testCases.TC_LoginTest_001  - URL is opened
+INFO    2022-09-28 11:45:20,728 [main] com.inetbanking.testCases.TC_LoginTest_001  - Entered username
+INFO    2022-09-28 11:45:20,748 [main] com.inetbanking.testCases.TC_LoginTest_001  - Entered password
+INFO    2022-09-28 11:45:21,187 [main] com.inetbanking.testCases.BaseClass  - quiting driver
+INFO    2022-09-28 11:47:06,697 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-09-28 11:47:06,964 [main] com.inetbanking.testCases.BaseClass  - initializing driver
+INFO    2022-09-28 11:47:14,556 [main] com.inetbanking.testCases.TC_LoginTest_001  - URL is opened
+INFO    2022-09-28 11:47:14,616 [main] com.inetbanking.testCases.TC_LoginTest_001  - Entered username
+INFO    2022-09-28 11:47:14,633 [main] com.inetbanking.testCases.TC_LoginTest_001  - Entered password
+INFO    2022-09-28 11:47:15,132 [main] com.inetbanking.testCases.BaseClass  - quiting driver
+INFO    2022-09-28 11:49:12,484 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-09-28 11:49:12,763 [main] com.inetbanking.testCases.BaseClass  - initializing driver
+INFO    2022-09-28 11:49:18,594 [main] com.inetbanking.testCases.TC_LoginTest_001  - URL is opened
+INFO    2022-09-28 11:49:18,662 [main] com.inetbanking.testCases.TC_LoginTest_001  - Entered username
+INFO    2022-09-28 11:49:18,707 [main] com.inetbanking.testCases.TC_LoginTest_001  - Entered password
+INFO    2022-09-28 11:49:19,152 [main] com.inetbanking.testCases.BaseClass  - quiting driver
+INFO    2022-10-05 07:26:38,517 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-10-05 07:26:39,025 [main] com.inetbanking.testCases.BaseClass  - initializing driver
+INFO    2022-10-05 07:26:46,188 [main] com.inetbanking.testCases.BaseClass  - quiting driver
+INFO    2022-10-05 07:28:27,168 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-10-05 07:28:27,384 [main] com.inetbanking.testCases.BaseClass  - initializing driver
+INFO    2022-10-05 07:28:32,306 [main] com.inetbanking.testCases.TC_LoginTest_001  - URL is opened
+INFO    2022-10-05 07:28:32,378 [main] com.inetbanking.testCases.TC_LoginTest_001  - Entered username
+INFO    2022-10-05 07:28:32,430 [main] com.inetbanking.testCases.TC_LoginTest_001  - Entered password
+INFO    2022-10-05 07:28:32,866 [main] com.inetbanking.testCases.BaseClass  - quiting driver
+INFO    2022-10-06 17:45:13,118 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-10-06 17:45:13,486 [main] com.inetbanking.testCases.BaseClass  - initializing driver
+INFO    2022-10-06 17:45:19,296 [main] com.inetbanking.testCases.TC_LoginTest_001  - URL is opened
+INFO    2022-10-06 17:45:19,487 [main] com.inetbanking.testCases.TC_LoginTest_001  - Entered username
+INFO    2022-10-06 17:45:19,584 [main] com.inetbanking.testCases.TC_LoginTest_001  - Entered password
+INFO    2022-10-06 17:45:20,094 [main] com.inetbanking.testCases.BaseClass  - quiting driver
+INFO    2022-10-06 17:46:10,160 [main] org.testng.internal.Utils  - [TestNG] Running:
+  C:\Users\91995\eclipse-workspace\inetBankingV1\TestNG.xml
+
+INFO    2022-10-06 17:46:10,489 [main] com.inetbanking.testCases.BaseClass  - initializing driver
+INFO    2022-10-06 17:46:15,913 [main] com.inetbanking.testCases.BaseClass  - quiting driver
