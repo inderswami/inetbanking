@@ -82,6 +82,8 @@ public class BaseClass {
 		driver.quit();
 		
 		extent.flush();
+		System.out.println("It is base class");
 	}
 
 }
+
